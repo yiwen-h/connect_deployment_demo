@@ -51,6 +51,7 @@ with st.form("guess_form"):
 
 # --- Show results ---
 if submitted:
+    st.balloons()
     st.subheader("📊 Results")
 
     score = 0
