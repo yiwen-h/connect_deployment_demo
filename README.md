@@ -7,6 +7,7 @@ The app is a simple game, displaying images of pets belonging to members of the 
 To run it locally, you will need to add the files in the `data` folder, as demonstrated below.
 Once you have the data, run the app with `streamlit run app.py` or, if you use `uv`, `uv run streamlit run app.py`
 
+```
 Project Root
 ├── data
 |   ├── pet_owner_mapping.csv
@@ -19,3 +20,4 @@ Project Root
 ├── README.md
 ├── requirements.txt
 └── uv.lock
+```
