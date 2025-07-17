@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "locale": "English_United Kingdom.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.12.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.1.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.11.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "311fba20aefabaf8a9f350840bcc9def"
+    },
+    ".gitignore": {
+      "checksum": "73f90a86102f4f025ccae5d32ff86033"
+    },
+    ".python-version": {
+      "checksum": "c0479ff484dacd51dc5ba0461b16b9bf"
+    },
+    "README.md": {
+      "checksum": "445c4d79dbc5961450dcbe5599d1f8a1"
+    },
+    "app.py": {
+      "checksum": "35969f775a01f02ae09f5e414e5940da"
+    },
+    "build/lib/app.py": {
+      "checksum": "191c68c8c0ec9786ddc9aa3105f0c34d"
+    },
+    "connect_deployment_demo.egg-info/PKG-INFO": {
+      "checksum": "084ca4d9b9f22826fee8b46b0b08f483"
+    },
+    "connect_deployment_demo.egg-info/SOURCES.txt": {
+      "checksum": "151a98f36937d9b718f992bd9557074c"
+    },
+    "connect_deployment_demo.egg-info/dependency_links.txt": {
+      "checksum": "68b329da9893e34099c7d8ad5cb9c940"
+    },
+    "connect_deployment_demo.egg-info/requires.txt": {
+      "checksum": "cca9b3058fe8ef087edcf416eaf0d6a0"
+    },
+    "connect_deployment_demo.egg-info/top_level.txt": {
+      "checksum": "6137cde4893c59f76f005a8123d8e8e6"
+    },
+    "data/pet_images/branwen.jpg": {
+      "checksum": "a86e501c44a1254bb654878118cfb4bf"
+    },
+    "data/pet_images/dolly.png": {
+      "checksum": "a61a9d7e03f8a15058ca294f8d5deeab"
+    },
+    "data/pet_images/freud.jpg": {
+      "checksum": "93be2490b5c875168bffc8a7f333e0b1"
+    },
+    "data/pet_images/pavlova.jpg": {
+      "checksum": "137a09833c62fd1bf2f49e1a98e4fd87"
+    },
+    "data/pet_images/ronald.jpg": {
+      "checksum": "5d95923a5e2ff1571043b60af0b834a1"
+    },
+    "data/pet_owner_mapping.csv": {
+      "checksum": "0644787f66741fc4c3c59eb12c7ab6c1"
+    },
+    "data/rsconnect-python/data.json": {
+      "checksum": "57ba60352c12dec1c1f14303a0f42cb8"
+    },
+    "pyproject.toml": {
+      "checksum": "8a22e4e188a1e5e24c9fb0e3888e922b"
+    },
+    "uv.lock": {
+      "checksum": "9ad8fba9ded26879b8ee69086649a5e7"
+    }
+  }
+}
